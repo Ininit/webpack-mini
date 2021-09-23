@@ -1,0 +1,20 @@
+{
+  "name": "webpack-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/parser": "^7.15.7",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/traverse": "^7.15.4",
+    "@ininit/eslint-config-ts": "^0.1.2",
+    "eslint": "^7.32.0"
+  }
+}
